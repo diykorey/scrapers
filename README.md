@@ -4,7 +4,7 @@ Install scrapy
 
     pip install Scrapy
     
-Run scrapper with command
+Run scraper with command
 
     scrapy crawl djinnispider -o output.csv
     
