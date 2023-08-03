@@ -32,5 +32,5 @@ Run scraper with command
     scrapy crawl glassdoor -o output.csv
     
     Where
-        djinnispider - name of spider, also there is another spider for ilustrative purpose - loginspider
+        glassdoorspider - name of glassdoor spider
         output.csv - name of output file
