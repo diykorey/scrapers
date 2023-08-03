@@ -29,7 +29,7 @@ Check scrapy.cfg file, proper value **glassdoor** should be configured
 
 Run scraper with command
 
-    scrapy crawl glassdoor -o output.csv
+    scrapy crawl glassdoorspider -o output.csv
     
     Where
         glassdoorspider - name of glassdoor spider
